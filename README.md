@@ -1,3 +1,4 @@
 # MusicDiskBags
-mod created by Decrypt(art) and Secti(programmer). Adds pretty music things
+mod, that adds pretty music things
  
+created by Decrypt(art) and Secti(programmer)
